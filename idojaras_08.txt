@@ -1,0 +1,15 @@
+Kecskemet 32 12
+Szeged 35 0
+Siofok 28 45
+Budapest 31 8
+Debrecen 29 0
+Gyor 27 15
+Pecs 33 0
+Miskolc 26 22
+Eger 30 12
+Veszprem 25 3
+Sopron 24 18
+Szolnok 34 5
+Kaposvar 29 0
+Bekescsaba 32 6
+Nyiregyhaza 31 2
